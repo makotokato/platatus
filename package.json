@@ -46,7 +46,7 @@
     "postcss-import": "^7.1.0",
     "postcss-nested": "^1.0.0",
     "postcss-simple-extend": "^1.0.0",
-    "postcss-simple-vars": "^1.0.1",
+    "postcss-simple-vars": "^1.2.0",
     "slug": "^0.9.1",
     "source-map-support": "^0.4.0",
     "vinyl-buffer": "^1.0.0",
